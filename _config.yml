@@ -1,0 +1,14 @@
+layout_spectrum: 0.19721423578448594
+typography_spectrum: 0.8409178350120783
+color:
+  brandStrength: 0.6951894578523934
+  lightness: 0.2396798434201628
+  saturation: 0.4377472472842783
+  rhythmicContrast: 0.5927915435750037
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: QueenMe
