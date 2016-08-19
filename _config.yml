@@ -1,4 +1,3 @@
-layout_spectrum: 0.19721423578448594
 typography_spectrum: 0.8409178350120783
 color:
   brandStrength: 0.6951894578523934
@@ -6,9 +5,11 @@ color:
   saturation: 0.4377472472842783
   rhythmicContrast: 0.5927915435750037
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.19721423578448594
 name: QueenMe
+title: Helping women see themselves the way their partners see them
